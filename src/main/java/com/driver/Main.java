@@ -23,3 +23,4 @@ public class Main {
         System.out.println(objB.meth()); // Output: Method is overridden in Extended class B
     }
 }
+
