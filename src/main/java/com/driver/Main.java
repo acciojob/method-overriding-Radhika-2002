@@ -1,14 +1,14 @@
 package com.driver;
 
 public class Main {
-    static class A {
+    public static class A {
         // Task 1: Method in class A
         public String meth() {
             return "Invoking method from class A";
         }
     }
 
-    static class B extends A {
+    public static class B extends A {
         // Task 4: Overriding method in class B
         @Override
         public String meth() {
