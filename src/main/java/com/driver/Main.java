@@ -12,7 +12,7 @@ public class Main {
         // Task 4: Overriding method in class B
         @Override
         public String meth() {
-            return "Method is overridden in Extended class B";
+            return "Method is overridden in Extendend class B";
         }
     }
 
